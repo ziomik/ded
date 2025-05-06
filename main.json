@@ -1,0 +1,163 @@
+{
+"sessione": "2025-05-04",
+"data_faerun": "Mirtul 24, 1492 DR",
+"ora_in_game": "10:10",
+"luogo_attuale": "Sorcerous Sundries, salone principale",
+"luoghi_visitati": [
+"Lower City, vicolo dell'informatore",
+"Lampione Blu, tetto",
+"Sorcerous Sundries"
+],
+"missioni": [
+{
+"titolo": "Indagini sui culti oscuri",
+"descrizione": "Raccogliere prove e smantellare i nodi rituali dei culti oscuri per conto della Flaming Fist",
+"stato": "in corso"
+}
+],
+"quest_concluse": [
+"Lo scrigno scomparso di Velk"
+],
+"prossimo_appuntamento": {
+"con": "Tarina",
+"luogo": "Tetto del Lampione Blu",
+"quando": "crepuscolo del 24 Mirtul 1492 DR"
+},
+"eventi_memorizzati": [
+"Briefing iniziale col Capitano Zodge",
+"Incontro con il mendicante informatore nel vicolo della Città Bassa",
+"Prova di Percezione (13) per individuare il mendicante",
+"Chiamata di un ramino per richiamare l'informatore",
+"Sussurro al mendicante per appuntamento con Tarina",
+"Indicazione incontro crepuscolo sul Lampione Blu",
+"Ricezione codice “Fiamma spenta” e segnale “birra di Neverwinter”",
+"Consegna di 3 libri con simboli di fiamme a Rivalen per analisi",
+"Riposo breve su poltrona imbottita nel negozio",
+"Verifica stato analisi di Rivalen (in corso)",
+"Osservazione scaffali: chalk runico, incenso, Holy Water",
+"Discussione prezzi pozioni con l’apprendista",
+"Chiarimento sull’incarico dell’apprendista da parte di Rivalen"
+],
+"relazioni": {
+"Capitano Zodge": "Committente ufficiale, fornisce incarichi e rapporti formali",
+"Mendicante informatore": "Alleato nei bassifondi, tramite tra te e Tarina/Flaming Fist",
+"Tarina": "Ex-pirata, informatrice astuta; incontro al crepuscolo sul Lampione Blu",
+"Rivalen Blackhand": "Mago erudito, proprietario del Sorcerous Sundries; analizza i tuoi libri",
+"Apprendista del Sorcerous Sundries": "Assistente di Rivalen, gestisce pozioni e registra manoscritti"
+},
+"personaggio": {
+"nome": "Whurrard",
+"razza": "Nano delle Montagne",
+"classe": "Guerriero",
+"livello": 2,
+"PF": {
+"massimi": 20,
+"attuali": 20
+},
+"CA": 18,
+"abilità": {
+"For": 3,
+"Des": 1,
+"Cos": 2,
+"Int": 0,
+"Sag": 1,
+"Car": -1
+},
+"bonus_competenza": 2,
+"competenze": [
+"Armature pesanti",
+"Scudi",
+"Armi da guerra",
+"Storia",
+"Percezione"
+],
+"lingue": [
+"Comune",
+"Nanico"
+]
+},
+"inventario": {
+"indossato": [
+"Ascia da battaglia (cintura)",
+"Cotta di maglia (indossata)",
+"Scudo (schiena)"
+],
+"borsa_cintura": [
+"Pozione di guarigione (pronta all’uso)",
+"Chiave stanza comune Lampione Blu",
+"Chiave lucchetto baule stanza Lampione Blu"
+],
+"borsa_conservante": [
+"Zaino vuoto",
+"1 torcia",
+"1 razione",
+"Set di dadi",
+"31 monete d’oro",
+"4 monete d’argento",
+"2 ramini",
+"Pergamena con simboli di fiamme stilizzate",
+"Trofeo: dente di basilisco nero in pendente di ferro battuto",
+"Abiti comuni",
+"Ricalco del simbolo di Bhaal",
+"Pergamena con indizi di Zodge",
+"Mappa di Baldur’s Gate",
+"Corda (usata per legare il prigioniero)",
+"Pergamena sigillata con cera viola",
+"Piccola pergamena trovata nel libro",
+"Cinque fiale di vetro opaco con liquido nerastro",
+"Pugnale rituale magico (origine oscura)",
+"Strumenti da birraio",
+"Dotazione da avventuriero",
+"Parola d’ordine: ‘Fiamma spenta’",
+"Indizio: Locanda del Canto del Corvo"
+],
+"oggetti_affidati": [
+"3 libri con simboli di fiamme stilizzate (affidati a Rivalen Blackhand per analisi)"
+]
+},
+"riposi": {
+"breve": true,
+"lungo": false
+},
+"rivalen_status": "analisi in corso",
+"ambiente_attuale": {
+"descrizione": "Sei seduto in poltrona nel salone del Sorcerous Sundries: l’apprendista ti ha spiegato il sistema di registrazione dei manoscritti e Rivalen continua l’analisi dei tuoi libri nella biblioteca privata."
+},
+"opzioniofferte": [
+"Aspettare Rivalen fuori dalla biblioteca (30 min)",
+"Chiedere all’apprendista altri dettagli sull’analisi",
+"Acquistare materiali economici (chalk, incenso, olio)",
+"Uscire e proseguire l’indagine sul campo",
+"Altre azioni libere"
+],
+"png_conosciuti": [
+{
+"nome": "Rivalen Blackhand",
+"ruolo": "Mago erudito, proprietario del Sorcerous Sundries",
+"descrizione": "Uomo di mezza età in tunica cerulea, concentrato su antichi tomi.",
+"atteggiamento": "Meticoloso, riservato"
+},
+{
+"nome": "Apprendista del Sorcerous Sundries",
+"ruolo": "Assistente",
+"descrizione": "Giovane umano, gestisce pozioni e registra manoscritti.",
+"atteggiamento": "Disponibile, informato"
+},
+{
+"nome": "Mendicante informatore",
+"ruolo": "Spia e tramite",
+"descrizione": "Vecchio barbone con mantelli a strati, recapita messaggi per Tarina e la Flaming Fist.",
+"atteggiamento": "Timido ma affidabile"
+},
+{
+"nome": "Tarina",
+"ruolo": "Informatrice ex-pirata",
+"descrizione": "Donna snella e agile, tatuaggi di fiamme stylizzate, agisce tra i tetti della Città Bassa.",
+"atteggiamento": "Astuta, riservata"
+}
+],
+"flags": {
+"master_assisted_rolls": false,
+"level_up_pending": false
+}
+}
